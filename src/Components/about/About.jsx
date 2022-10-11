@@ -10,7 +10,7 @@ const About = () => {
     <section id='about'>
       <h5>Get To Know</h5>
       <h2>About Me</h2>
-      <div className="container about_container">
+      <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
             <img src={Me} alt="About Image" />
@@ -35,7 +35,7 @@ const About = () => {
               <small>10+</small>
             </arctice>
           </div>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil tenetur pariatur nam dolorum, earum, modi, expedita voluptas sapiente illo mollitia quisquam fugit corrupti porro eligendi deserunt provident ducimus quis. Architecto, suscipit. Consectetur cumque fugit rerum quae, veniam perferendis dignissimos quasi quisquam est amet, fugiat, possimus inventore velit laudantium neque aliquam quo eveniet? Adipisci culpa repellat ipsum qui sit quibusdam enim, officiis soluta tempore ipsam mollitia non, ad obcaecati labore quas nesciunt? Officia atque esse minima veritatis tempora autem nemo, inventore in similique voluptates hic quibusdam dolor aliquid nulla vel consectetur ut dolore id eos itaque? Aperiam corrupti aliquam eveniet voluptatibus possimus nemo quasi qui enim quaerat, iusto asperiores, atque, corporis iste veritatis? Ea, maxime incidunt?</p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam laborum natus molestiae labore, voluptatibus, dolor odit vero asperiores aperiam voluptas ut cupiditate sed perferendis similique suscipit illum nesciunt, quae deserunt distinctio recusandae quo dolorum. Voluptatibus sit non maxime cumque esse officia. Reiciendis consectetur illum minus expedita. Numquam nesciunt illum laudantium.</p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
