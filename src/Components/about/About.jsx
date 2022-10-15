@@ -16,7 +16,7 @@ const About = () => {
             <img src={Me} alt="About Image" />
           </div>
         </div>
-        
+
         <div className="about__content">
           <div className="about__cards">
             <arctice className="about__card">
@@ -35,7 +35,11 @@ const About = () => {
               <small>10+</small>
             </arctice>
           </div>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam laborum natus molestiae labore, voluptatibus, dolor odit vero asperiores aperiam voluptas ut cupiditate sed perferendis similique suscipit illum nesciunt, quae deserunt distinctio recusandae quo dolorum. Voluptatibus sit non maxime cumque esse officia. Reiciendis consectetur illum minus expedita. Numquam nesciunt illum laudantium.</p>
+          <p>Second Year CSE Student At Chitkara University
+            Currently,Learning DSA And SQL,
+            Enthusiastic Engineering Aspirant with Intermediate Knowledge in Programming,
+            Proficient in C++, HTML 5, JavaScript, and Python. Ability to learn new softwares and Technologies Quickly,
+            Capability To Work in Teams By Providing Valuable Support.</p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
