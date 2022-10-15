@@ -7,7 +7,7 @@ import Portfolio from './Components/portfolio/Portfolio'
 import Contact from './Components/contact/Contact'
 import Nav from './Components/nav/Nav'
 import Services from './Components/services/Services'
-import Testimonials from './Components/testimonials/Testimonials'
+// import Testimonials from './Components/testimonials/Testimonials'
 
 
 const App = () => {
@@ -18,12 +18,8 @@ const App = () => {
     <About/>
     <Experience/>
     <Services/>
-    <Contact/>
-    <Footer/>
-   
-    
     <Portfolio/>
-    <Testimonials/>
+    <Contact/>
 
     </>
   )
