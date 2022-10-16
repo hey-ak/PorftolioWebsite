@@ -61,4 +61,12 @@
         width: 100%;
         padding: 2rem 1rem;
        }
+       .fb{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .fb> div{
+        padding: 0.5rem;
+    }
+        
 }

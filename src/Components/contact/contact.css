@@ -25,6 +25,9 @@
    
 
 }
+.contact__option h5 {
+    overflow-wrap: break-word;
+}
 .icn{
     font-size: 1.5rem;
     margin-bottom: 0.5rem;
@@ -57,11 +60,16 @@ input,textarea{
 @media screen and (max-width: 1024px) {
 
 
- 
+    
  
  }
  /*  For Small Devices */
  @media screen and (max-width: 600px) {
     
-   
+    .container.contact__container{
+        width: 90%;
+        display: grid;
+        grid-template-columns: 40% 50%;
+        gap: 12%;
+    }
  }

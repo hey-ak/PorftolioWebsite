@@ -1,12 +1,12 @@
 .portfolio__container{
     display:grid;
     grid-template-columns:repeat(3,1fr);
-   gap:3rem
 }
 .portfolio_item{
     background: var(--color-bg-variant);
     padding: 1.2rem;
     border-radius: 2rem;
+    margin: 20px;
     border: 1px solid transparent;
     transition: var(--transition);
 }
@@ -46,6 +46,9 @@
 
     
    
+    }
+    .portfolio__container{
+        grid-template-columns:1fr;   
     }
      
  }
